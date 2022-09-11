@@ -12,3 +12,8 @@
 ![rjesenje_camel_proces](https://user-images.githubusercontent.com/60628863/189531693-06937722-b552-47df-9253-7bc9c76c57ed.png)
 ![rjesenje_wolf_proces](https://user-images.githubusercontent.com/60628863/189531700-5595f709-b754-473a-bd6d-cdab512f8536.png)
 ![lab_test_rjesenje](https://user-images.githubusercontent.com/60628863/189531688-e08278cf-94cc-4acf-b536-751e52102fb1.png)
+
+### Solved mazes
+![rjesenje_lab_wolf](https://user-images.githubusercontent.com/60628863/189531772-cb31c7a1-3fd4-477b-af0a-5a79f4a44739.png)
+![rjesenje_lab_camel](https://user-images.githubusercontent.com/60628863/189531774-867472ac-6802-4f5b-a03b-5b7cf5f95ecb.png)
+![rjeseni_lab_delfin](https://user-images.githubusercontent.com/60628863/189531775-a78ef9e6-3d20-4d44-b6ec-3a055c5dee44.png)
